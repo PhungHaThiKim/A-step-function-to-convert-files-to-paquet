@@ -1,0 +1,5 @@
+{
+  "bucket": "fresheracademy-de-data-lake-transient",
+  "prefix": "OJT_Data/Input/",
+  "output_path": "s3://fresheracademy-de-data-lake-transient/OJT_Data/Output/PhungHTK/"
+}
